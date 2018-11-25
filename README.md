@@ -1,3 +1,2 @@
-# a-exemple-2
-gfgfgfg
-bjhjh
+# time-dependent marker by treatment predictiveness curve
+
